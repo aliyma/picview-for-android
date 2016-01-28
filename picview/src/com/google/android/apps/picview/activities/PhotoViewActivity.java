@@ -28,7 +28,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
 import android.view.WindowManager;
-import android.widget.ImageView;
+import android.widget.ImageView;的点点滴滴的点点滴滴
 import android.widget.TextView;
 
 import com.google.android.apps.picview.R;
